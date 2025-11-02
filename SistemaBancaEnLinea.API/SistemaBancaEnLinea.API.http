@@ -1,0 +1,6 @@
+@SistemaBancaEnLinea.API_HostAddress = http://localhost:5294
+
+GET {{SistemaBancaEnLinea.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
