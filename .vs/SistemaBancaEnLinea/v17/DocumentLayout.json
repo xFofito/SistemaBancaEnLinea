@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|c:\\users\\sebastian\\onedrive - universidad internacional de las am\u00E9ricas (uia)\\documents\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea.bc\\modelos\\registroauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|solutionrelative:sistemabancaenlinea.bc\\modelos\\registroauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|c:\\users\\sebastian\\onedrive - universidad internacional de las am\u00E9ricas (uia)\\documents\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea.bc\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|solutionrelative:sistemabancaenlinea.bc\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|c:\\users\\sebastian\\onedrive - universidad internacional de las am\u00E9ricas (uia)\\documents\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea.bc\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|solutionrelative:sistemabancaenlinea.bc\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|c:\\users\\sebastian\\onedrive - universidad internacional de las am\u00E9ricas (uia)\\documents\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea.bc\\modelos\\proveedorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|solutionrelative:sistemabancaenlinea.bc\\modelos\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|c:\\users\\sebastian\\onedrive - universidad internacional de las am\u00E9ricas (uia)\\documents\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea.bc\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|solutionrelative:sistemabancaenlinea.bc\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|c:\\users\\sebastian\\onedrive - universidad internacional de las am\u00E9ricas (uia)\\documents\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea.bc\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|solutionrelative:sistemabancaenlinea.bc\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|c:\\users\\sebastian\\onedrive - universidad internacional de las am\u00E9ricas (uia)\\documents\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea\\sistemabancaenlinea.bc\\modelos\\registroauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F5A29F-9E00-43B6-B424-4332DE841456}|SistemaBancaEnLinea.BC\\SistemaBancaEnLinea.BC.csproj|solutionrelative:sistemabancaenlinea.bc\\modelos\\registroauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "RegistroAuditoria.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\RegistroAuditoria.cs",
               "RelativeDocumentMoniker": "SistemaBancaEnLinea.BC\\Modelos\\RegistroAuditoria.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "SistemaBancaEnLinea.BC\\Modelos\\RegistroAuditoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:17:31.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:17:31.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProveedorServicio.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\ProveedorServicio.cs",
               "RelativeDocumentMoniker": "SistemaBancaEnLinea.BC\\Modelos\\ProveedorServicio.cs",
@@ -59,39 +58,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Transferencia.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\Transferencia.cs",
               "RelativeDocumentMoniker": "SistemaBancaEnLinea.BC\\Modelos\\Transferencia.cs",
               "ToolTip": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\Transferencia.cs",
               "RelativeToolTip": "SistemaBancaEnLinea.BC\\Modelos\\Transferencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T06:13:47.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\Usuario.cs",
               "RelativeDocumentMoniker": "SistemaBancaEnLinea.BC\\Modelos\\Usuario.cs",
               "ToolTip": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\Usuario.cs",
               "RelativeToolTip": "SistemaBancaEnLinea.BC\\Modelos\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T06:09:20.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\Cliente.cs",
               "RelativeDocumentMoniker": "SistemaBancaEnLinea.BC\\Modelos\\Cliente.cs",
               "ToolTip": "C:\\Users\\Sebastian\\OneDrive - Universidad Internacional de las Am\u00E9ricas (UIA)\\Documents\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea\\SistemaBancaEnLinea.BC\\Modelos\\Cliente.cs",
               "RelativeToolTip": "SistemaBancaEnLinea.BC\\Modelos\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T06:12:35.287Z"
+              "WhenOpened": "2025-10-31T06:12:35.287Z",
+              "EditorCaption": ""
             }
           ]
         }
